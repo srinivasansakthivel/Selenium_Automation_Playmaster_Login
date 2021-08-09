@@ -1,0 +1,88 @@
+2021-07-12 11:53:10,082 :INFO :test_login_email : Created logger object from baseclass
+2021-07-12 11:53:10,083 :INFO :test_login_email : Creating login page object
+2021-07-12 11:53:10,090 :INFO :test_login_email : Current Page Title : PLAYMASTER - CS:GO Training and Skills Practice
+2021-07-12 11:53:10,102 :INFO :test_login_email : Current Page URL :https://stg-skillmaster-web.np.logitech.io/
+2021-07-12 11:53:10,102 :INFO :test_login_email : Checking the present of early access sign-in button
+2021-07-12 11:53:12,946 :INFO :test_login_email : Clicked on early access sign-in button and navigated to the LIDS login page
+2021-07-12 11:53:12,955 :INFO :test_login_email : Current Page URL :https://static-sandbox.cto.logi.com/websso/?client_id=b8ab5724-3c0b-428b-a62d-938cd5786a49&style-template=4484B068-E2EA-4423-A379-5F38A5910391&redirect_uri=https%3A%2F%2Fstg-skillmaster-web.np.logitech.io%2Fauth_callback&response_type=code&locale=en
+2021-07-12 11:53:14,957 :INFO :test_login_email : Entering the email address
+2021-07-12 11:53:15,196 :INFO :test_login_email : Entering the password
+2021-07-12 11:53:15,367 :INFO :test_login_email : Clicking the login button
+2021-07-12 11:53:15,451 :INFO :test_login_email : Checking the presence of profile name locator after login
+2021-07-12 11:53:35,511 :INFO :test_login_email : Logged into _logistaging3 account successfully
+2021-07-12 11:53:35,520 :INFO :test_login_email : Current Page URL :https://stg-skillmaster-web.np.logitech.io/profile/35bc47ad3ef34724985ae134803f6bd7
+2021-07-12 11:53:35,694 :INFO :test_login_email : Clicked the setting button
+2021-07-12 11:53:36,059 :INFO :test_login_email : Control in account settings page
+2021-07-12 11:53:36,097 :INFO :test_login_email : Verified the player URL identifier in the current URL of the PlayMaster page
+2021-07-12 11:53:39,275 :INFO :test_login_email : Login to PlayMaster through email was successful
+2021-07-12 15:49:58,612 :INFO :test_login_email : Created logger object from baseclass
+2021-07-12 15:49:58,612 :INFO :test_login_email : Creating login page object
+2021-07-12 15:49:58,619 :INFO :test_login_email : Current Page Title : PLAYMASTER - CS:GO Training and Skills Practice
+2021-07-12 15:49:58,627 :INFO :test_login_email : Current Page URL :https://stg-skillmaster-web.np.logitech.io/
+2021-07-12 15:49:58,627 :INFO :test_login_email : Checking the present of early access sign-in button
+2021-07-12 15:50:01,417 :INFO :test_login_email : Clicked on early access sign-in button and navigated to the LIDS login page
+2021-07-12 15:50:01,428 :INFO :test_login_email : Current Page URL :https://static-sandbox.cto.logi.com/websso/?client_id=b8ab5724-3c0b-428b-a62d-938cd5786a49&style-template=4484B068-E2EA-4423-A379-5F38A5910391&redirect_uri=https%3A%2F%2Fstg-skillmaster-web.np.logitech.io%2Fauth_callback&response_type=code&locale=en
+2021-07-12 15:50:03,432 :INFO :test_login_email : Entering the email address
+2021-07-12 15:50:03,591 :INFO :test_login_email : Entering the password
+2021-07-12 15:50:03,704 :INFO :test_login_email : Clicking the login button
+2021-07-12 15:50:03,756 :INFO :test_login_email : Checking the presence of profile name locator after login
+2021-07-12 15:50:23,822 :INFO :test_login_email : Logged into _logistaging3 account successfully
+2021-07-12 15:50:23,829 :INFO :test_login_email : Current Page URL :https://stg-skillmaster-web.np.logitech.io/profile/35bc47ad3ef34724985ae134803f6bd7
+2021-07-12 15:50:23,986 :INFO :test_login_email : Clicked the setting button
+2021-07-12 15:50:24,312 :INFO :test_login_email : Control in account settings page
+2021-07-12 15:50:24,345 :INFO :test_login_email : Verified the player URL identifier in the current URL of the PlayMaster page
+2021-07-12 15:50:27,491 :INFO :test_login_email : Login to PlayMaster through email was successful
+2021-07-12 15:54:30,675 :INFO :test_login_facebook : Created logger object from baseclass
+2021-07-12 15:54:30,675 :INFO :test_login_facebook : Creating login page object, login_page
+2021-07-12 15:54:30,681 :INFO :test_login_facebook : Current Page Title : PLAYMASTER - CS:GO Training and Skills Practice
+2021-07-12 15:54:30,695 :INFO :test_login_facebook : Current Page URL :https://stg-skillmaster-web.np.logitech.io/
+2021-07-12 15:54:30,695 :INFO :test_login_facebook : Checking the present of early access sign-in button
+2021-07-12 15:54:36,499 :INFO :test_login_facebook : Checking the present of facebook button
+2021-07-12 15:54:36,682 :INFO :test_login_facebook : Clicked the facebook button
+2021-07-12 15:54:42,298 :INFO :test_login_facebook : Current Page URL :https://www.facebook.com/login.php?skip_api_login=1&api_key=145092349770210&kid_directed_site=0&app_id=145092349770210&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fclient_id%3D145092349770210%26redirect_uri%3Dhttps%253A%252F%252Fsandbox.accounts.logi.com%252Fwebsso%252Fcallback%26state%3DeyJwcm92aWRlciI6ImZhY2Vib29rIiwicXVlcnlfc2VhcmNoIjp7ImNsaWVudF9pZCI6ImI4YWI1NzI0LTNjMGItNDI4Yi1hNjJkLTkzOGNkNTc4NmE0OSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vc3RnLXNraWxsbWFzdGVyLXdlYi5ucC5sb2dpdGVjaC5pby9hdXRoX2NhbGxiYWNrIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJzdHlsZS10ZW1wbGF0ZSI6IjQ0ODRCMDY4LUUyRUEtNDQyMy1BMzc5LTVGMzhBNTkxMDM5MSJ9fQ%26scope%3Demail%252Cpublic_profile%26display%3Dpopup%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D60db13d6-aa3c-4fcc-aee8-715ded27da6b%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fsandbox.accounts.logi.com%2Fwebsso%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DeyJwcm92aWRlciI6ImZhY2Vib29rIiwicXVlcnlfc2VhcmNoIjp7ImNsaWVudF9pZCI6ImI4YWI1NzI0LTNjMGItNDI4Yi1hNjJkLTkzOGNkNTc4NmE0OSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vc3RnLXNraWxsbWFzdGVyLXdlYi5ucC5sb2dpdGVjaC5pby9hdXRoX2NhbGxiYWNrIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJzdHlsZS10ZW1wbGF0ZSI6IjQ0ODRCMDY4LUUyRUEtNDQyMy1BMzc5LTVGMzhBNTkxMDM5MSJ9fQ%23_%3D_&display=popup&locale=ta_IN&pl_dbl=0
+2021-07-12 15:54:42,393 :INFO :test_login_facebook : Entered the facebook email address
+2021-07-12 15:54:42,485 :INFO :test_login_facebook : Enter the facebook password
+2021-07-12 15:54:43,592 :INFO :test_login_facebook : Clicked the facebook login button
+2021-07-12 15:54:43,593 :INFO :test_login_facebook : Checking the presence of profile name locator after login
+2021-07-12 15:54:58,653 :INFO :test_login_facebook : Logged into LogiQA1_Test12331231312313131313 account successfully
+2021-07-12 15:54:58,659 :INFO :test_login_facebook : Current Page URL :https://stg-skillmaster-web.np.logitech.io/profile/f27fd0b9b5744478bf2c22119e9d879c
+2021-07-12 15:54:58,790 :INFO :test_login_facebook : Clicked the setting button
+2021-07-12 15:59:43,714 :INFO :test_login_facebook : Created logger object from baseclass
+2021-07-12 15:59:43,714 :INFO :test_login_facebook : Creating login page object, login_page
+2021-07-12 15:59:43,720 :INFO :test_login_facebook : Current Page Title : PLAYMASTER - CS:GO Training and Skills Practice
+2021-07-12 15:59:43,735 :INFO :test_login_facebook : Current Page URL :https://stg-skillmaster-web.np.logitech.io/
+2021-07-12 15:59:43,735 :INFO :test_login_facebook : Checking the present of early access sign-in button
+2021-07-12 15:59:49,198 :INFO :test_login_facebook : Checking the present of facebook button
+2021-07-12 16:00:20,209 :INFO :test_login_facebook : Created logger object from baseclass
+2021-07-12 16:00:20,209 :INFO :test_login_facebook : Creating login page object, login_page
+2021-07-12 16:00:20,215 :INFO :test_login_facebook : Current Page Title : PLAYMASTER - CS:GO Training and Skills Practice
+2021-07-12 16:00:20,225 :INFO :test_login_facebook : Current Page URL :https://stg-skillmaster-web.np.logitech.io/
+2021-07-12 16:00:20,225 :INFO :test_login_facebook : Checking the present of early access sign-in button
+2021-07-12 16:00:26,154 :INFO :test_login_facebook : Checking the present of facebook button
+2021-07-12 16:00:26,332 :INFO :test_login_facebook : Clicked the facebook button
+2021-07-12 16:00:34,980 :INFO :test_login_facebook : Current Page URL :https://www.facebook.com/login.php?skip_api_login=1&api_key=145092349770210&kid_directed_site=0&app_id=145092349770210&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fclient_id%3D145092349770210%26redirect_uri%3Dhttps%253A%252F%252Fsandbox.accounts.logi.com%252Fwebsso%252Fcallback%26state%3DeyJwcm92aWRlciI6ImZhY2Vib29rIiwicXVlcnlfc2VhcmNoIjp7ImNsaWVudF9pZCI6ImI4YWI1NzI0LTNjMGItNDI4Yi1hNjJkLTkzOGNkNTc4NmE0OSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vc3RnLXNraWxsbWFzdGVyLXdlYi5ucC5sb2dpdGVjaC5pby9hdXRoX2NhbGxiYWNrIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJzdHlsZS10ZW1wbGF0ZSI6IjQ0ODRCMDY4LUUyRUEtNDQyMy1BMzc5LTVGMzhBNTkxMDM5MSJ9fQ%26scope%3Demail%252Cpublic_profile%26display%3Dpopup%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D43cbfbab-eab9-4506-ae0c-d955aa5ac419%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fsandbox.accounts.logi.com%2Fwebsso%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DeyJwcm92aWRlciI6ImZhY2Vib29rIiwicXVlcnlfc2VhcmNoIjp7ImNsaWVudF9pZCI6ImI4YWI1NzI0LTNjMGItNDI4Yi1hNjJkLTkzOGNkNTc4NmE0OSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vc3RnLXNraWxsbWFzdGVyLXdlYi5ucC5sb2dpdGVjaC5pby9hdXRoX2NhbGxiYWNrIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJzdHlsZS10ZW1wbGF0ZSI6IjQ0ODRCMDY4LUUyRUEtNDQyMy1BMzc5LTVGMzhBNTkxMDM5MSJ9fQ%23_%3D_&display=popup&locale=ta_IN&pl_dbl=0
+2021-07-12 16:00:35,071 :INFO :test_login_facebook : Entered the facebook email address
+2021-07-12 16:00:35,162 :INFO :test_login_facebook : Enter the facebook password
+2021-07-12 16:00:36,264 :INFO :test_login_facebook : Clicked the facebook login button
+2021-07-12 16:00:36,265 :INFO :test_login_facebook : Checking the presence of profile name locator after login
+2021-07-12 16:00:51,374 :INFO :test_login_facebook : Logged into LogiQA1_Test12331231312313131313 account successfully
+2021-07-12 16:00:51,385 :INFO :test_login_facebook : Current Page URL :https://stg-skillmaster-web.np.logitech.io/profile/f27fd0b9b5744478bf2c22119e9d879c
+2021-07-12 16:00:51,548 :INFO :test_login_facebook : Clicked the setting button
+2021-07-12 16:02:14,793 :INFO :test_login_facebook : Created logger object from baseclass
+2021-07-12 16:02:14,793 :INFO :test_login_facebook : Creating login page object, login_page
+2021-07-12 16:02:14,805 :INFO :test_login_facebook : Current Page Title : PLAYMASTER - CS:GO Training and Skills Practice
+2021-07-12 16:02:14,818 :INFO :test_login_facebook : Current Page URL :https://stg-skillmaster-web.np.logitech.io/
+2021-07-12 16:02:14,818 :INFO :test_login_facebook : Checking the present of early access sign-in button
+2021-07-12 16:02:19,846 :INFO :test_login_facebook : Checking the present of facebook button
+2021-07-12 16:02:20,013 :INFO :test_login_facebook : Clicked the facebook button
+2021-07-12 16:02:25,741 :INFO :test_login_facebook : Current Page URL :https://www.facebook.com/login.php?skip_api_login=1&api_key=145092349770210&kid_directed_site=0&app_id=145092349770210&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fclient_id%3D145092349770210%26redirect_uri%3Dhttps%253A%252F%252Fsandbox.accounts.logi.com%252Fwebsso%252Fcallback%26state%3DeyJwcm92aWRlciI6ImZhY2Vib29rIiwicXVlcnlfc2VhcmNoIjp7ImNsaWVudF9pZCI6ImI4YWI1NzI0LTNjMGItNDI4Yi1hNjJkLTkzOGNkNTc4NmE0OSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vc3RnLXNraWxsbWFzdGVyLXdlYi5ucC5sb2dpdGVjaC5pby9hdXRoX2NhbGxiYWNrIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJzdHlsZS10ZW1wbGF0ZSI6IjQ0ODRCMDY4LUUyRUEtNDQyMy1BMzc5LTVGMzhBNTkxMDM5MSJ9fQ%26scope%3Demail%252Cpublic_profile%26display%3Dpopup%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D5417d0b9-30a9-4cb8-99e1-6171a45e48fb%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fsandbox.accounts.logi.com%2Fwebsso%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DeyJwcm92aWRlciI6ImZhY2Vib29rIiwicXVlcnlfc2VhcmNoIjp7ImNsaWVudF9pZCI6ImI4YWI1NzI0LTNjMGItNDI4Yi1hNjJkLTkzOGNkNTc4NmE0OSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vc3RnLXNraWxsbWFzdGVyLXdlYi5ucC5sb2dpdGVjaC5pby9hdXRoX2NhbGxiYWNrIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJzdHlsZS10ZW1wbGF0ZSI6IjQ0ODRCMDY4LUUyRUEtNDQyMy1BMzc5LTVGMzhBNTkxMDM5MSJ9fQ%23_%3D_&display=popup&locale=ta_IN&pl_dbl=0
+2021-07-12 16:02:25,830 :INFO :test_login_facebook : Entered the facebook email address
+2021-07-12 16:02:25,902 :INFO :test_login_facebook : Enter the facebook password
+2021-07-12 16:02:27,021 :INFO :test_login_facebook : Clicked the facebook login button
+2021-07-12 16:02:27,021 :INFO :test_login_facebook : Checking the presence of profile name locator after login
+2021-07-12 16:02:42,090 :INFO :test_login_facebook : Logged into LogiQA1_Test12331231312313131313 account successfully
+2021-07-12 16:02:42,101 :INFO :test_login_facebook : Current Page URL :https://stg-skillmaster-web.np.logitech.io/profile/f27fd0b9b5744478bf2c22119e9d879c
+2021-07-12 16:02:42,248 :INFO :test_login_facebook : Clicked the setting button
+2021-07-12 16:02:43,364 :INFO :test_login_facebook : Control in account settings page
+2021-07-12 16:02:43,401 :INFO :test_login_facebook : Verified thr player URL identifier in the current URL of the page
+2021-07-12 16:02:46,531 :INFO :test_login_facebook : Logged into PlayMaster successful through Facebook successfully

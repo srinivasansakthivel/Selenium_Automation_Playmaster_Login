@@ -1,0 +1,626 @@
+1622118690151	geckodriver	INFO	Listening on 127.0.0.1:52367
+1622118693231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilezLVP8Q"
+1622118693979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622118696625	Marionette	INFO	Listening on port 52376
+1622118696955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622118732782	Marionette	INFO	Stopped listening on port 52376
+1622360422573	geckodriver	INFO	Listening on 127.0.0.1:51527
+1622360425620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofile0j7dHZ"
+1622360426636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622360429242	Marionette	INFO	Listening on port 51535
+1622360429330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622360447539	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.kN-C0jvYk0M.O/am=B2DcsIgABAAAAgAAAAAAAAAwAgAUgsan8AM/d=1/rs=ABkqax0gXcNY0P2EngGmr0j1Zc2sDfEHbA/m=glifb,identifier_view,unknownerror_view, line 652: NS_ERROR_NOT_INITIALIZED: 
+1622367092940	Marionette	INFO	Stopped listening on port 51535
+1622612131678	geckodriver	INFO	Listening on 127.0.0.1:64210
+1622612134763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofile21f4er"
+1622612135725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612138116	Marionette	INFO	Listening on port 59271
+1622612138502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622612174539	Marionette	INFO	Stopped listening on port 59271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612205743	geckodriver	INFO	Listening on 127.0.0.1:50039
+1622612208809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilek4Qulh"
+1622612209254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612211266	Marionette	INFO	Listening on port 50047
+1622612211502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622612220086	Marionette	INFO	Stopped listening on port 50047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612292549	geckodriver	INFO	Listening on 127.0.0.1:60432
+1622612295639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofiledJa2S3"
+1622612296110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612298212	Marionette	INFO	Listening on port 60440
+1622612298324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622612306800	Marionette	INFO	Stopped listening on port 60440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612392038	geckodriver	INFO	Listening on 127.0.0.1:60516
+1622612395127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilempRC0r"
+1622612395594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612397556	Marionette	INFO	Listening on port 60524
+1622612397797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622612407105	Marionette	INFO	Stopped listening on port 60524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612561407	geckodriver	INFO	Listening on 127.0.0.1:49774
+1622612564500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileA0XQbM"
+1622612564920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612566792	Marionette	INFO	Listening on port 49782
+1622612567183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622612577530	Marionette	INFO	Stopped listening on port 49782
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612655024	geckodriver	INFO	Listening on 127.0.0.1:49204
+1622612658088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilefo7Rtn"
+1622612658717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612660738	Marionette	INFO	Listening on port 49212
+1622612660757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622612688354	Marionette	INFO	Stopped listening on port 49212
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612724809	geckodriver	INFO	Listening on 127.0.0.1:49703
+1622612727880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileUDlbf3"
+1622612728497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612730315	Marionette	INFO	Listening on port 49711
+1622612730544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622612751811	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622612754158	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1622612781652	Marionette	INFO	Stopped listening on port 49711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612857623	geckodriver	INFO	Listening on 127.0.0.1:50262
+1622612860696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileLVqJaV"
+1622612861316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612863395	Marionette	INFO	Listening on port 50270
+1622612863870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622612878758	Marionette	INFO	Stopped listening on port 50270
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622612902970	geckodriver	INFO	Listening on 127.0.0.1:64101
+1622612906054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileqQIH6R"
+1622612906466	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622612908477	Marionette	INFO	Listening on port 64109
+1622612908737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622612924839	Marionette	INFO	Stopped listening on port 64109
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622613017730	geckodriver	INFO	Listening on 127.0.0.1:59131
+1622613020775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilerRkEhp"
+1622613021185	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622613023164	Marionette	INFO	Listening on port 59139
+1622613023430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622613036419	Marionette	INFO	Stopped listening on port 59139
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622613069335	geckodriver	INFO	Listening on 127.0.0.1:63878
+1622613072390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilej7TUq5"
+1622613072811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622613074703	Marionette	INFO	Listening on port 63886
+1622613075066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622613091811	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622613112793	Marionette	INFO	Stopped listening on port 63886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622613160092	geckodriver	INFO	Listening on 127.0.0.1:63988
+1622613163150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileE6G0pl"
+1622613163564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622613165466	Marionette	INFO	Listening on port 63997
+1622613165808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622613182195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622613207631	Marionette	INFO	Stopped listening on port 63997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622613575895	geckodriver	INFO	Listening on 127.0.0.1:64644
+1622613578980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileymg3HU"
+1622613579605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622613581518	Marionette	INFO	Listening on port 58962
+1622613581651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622613594532	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.kN-C0jvYk0M.O/am=B2DcsIgABAAABgAAAAAAAAAwAgAUgsan8AM/d=1/excm=glif_initial_css/rs=ABkqax1J4QHBoFAVAYyCP3ayiK5vR4EtMg/m=glifb,identifier_view,unknownerror_view, line 652: NS_ERROR_NOT_INITIALIZED: 
+1622614268249	Marionette	INFO	Stopped listening on port 58962
+2613667257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileOw1wIm"
+1622613667703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622613669711	Marionette	INFO	Listening on port 52018
+1622613669940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622613685563	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622614262392	Marionette	INFO	Stopped listening on port 52018
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileNxVlfa"
+1622613728020	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622613730017	Marionette	INFO	Listening on port 50373
+1622613730281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622613746650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622614263098	Marionette	INFO	Stopped listening on port 50373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622627238624	geckodriver	INFO	Listening on 127.0.0.1:59055
+1622627241640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileeciIYs"
+1622627242115	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622627244333	Marionette	INFO	Listening on port 59063
+1622627244767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622627272540	Marionette	INFO	Stopped listening on port 59063
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622627299269	geckodriver	INFO	Listening on 127.0.0.1:53926
+1622627302297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileQs3DQz"
+1622627302982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622627305306	Marionette	INFO	Listening on port 53934
+1622627305434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622627346226	Marionette	INFO	Stopped listening on port 53934
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622627370128	geckodriver	INFO	Listening on 127.0.0.1:64518
+1622627373150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileT7UbvC"
+1622627373988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622627377683	Marionette	INFO	Listening on port 64527
+1622627377893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622627452959	Marionette	INFO	Stopped listening on port 64527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622627523527	geckodriver	INFO	Listening on 127.0.0.1:64811
+1622627526552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileOkbhC6"
+1622627527258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622627530099	Marionette	INFO	Listening on port 54540
+1622627530189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622627574238	Marionette	INFO	Stopped listening on port 54540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622702444002	geckodriver	INFO	Listening on 127.0.0.1:51653
+1622702447058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileKpKPgS"
+1622702447506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622702449365	Marionette	INFO	Listening on port 51661
+1622702449742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622702484483	Marionette	INFO	Stopped listening on port 51661
+1622713046762	geckodriver	INFO	Listening on 127.0.0.1:59139
+1622713049814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileVAolyL"
+1622713050249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622713052108	Marionette	INFO	Listening on port 59147
+1622713052480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622713088774	Marionette	INFO	Stopped listening on port 59147
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622792321373	geckodriver	INFO	Listening on 127.0.0.1:60737
+1622792324412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofile9If9m1"
+1622792325249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofile9If9m1\\search.json.mozlz4", (void 0)))
+1622792327432	Marionette	INFO	Listening on port 60745
+1622792327639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622792356066	Marionette	INFO	Stopped listening on port 60745
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622792369510	geckodriver	INFO	Listening on 127.0.0.1:60788
+1622792372562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilex28oYP"
+1622792373028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilex28oYP\\search.json.mozlz4", (void 0)))
+1622792375083	Marionette	INFO	Listening on port 60796
+1622792375269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622792571606	Marionette	INFO	Stopped listening on port 60796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622804133470	geckodriver	INFO	Listening on 127.0.0.1:63547
+1622804136630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileTnayw0"
+1622804140887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileTnayw0\\search.json.mozlz4", (void 0)))
+1622804155883	Marionette	INFO	Listening on port 63556
+1622804156287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622804202624	Marionette	INFO	Stopped listening on port 63556
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622878731076	geckodriver	INFO	Listening on 127.0.0.1:59580
+1622878734142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileBC8EtA"
+1622878734806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileBC8EtA\\search.json.mozlz4", (void 0)))
+1622878737157	Marionette	INFO	Listening on port 59589
+1622878737346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622878776125	Marionette	INFO	Stopped listening on port 59589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622878795434	geckodriver	INFO	Listening on 127.0.0.1:54698
+1622878798506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilehV6Odf"
+1622878798913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilehV6Odf\\search.json.mozlz4", (void 0)))
+1622878800790	Marionette	INFO	Listening on port 54707
+1622878801167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622878820105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622878846524	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 228: TypeError: grip is undefined
+1622879044196	Marionette	INFO	Stopped listening on port 54707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622880996329	geckodriver	INFO	Listening on 127.0.0.1:65086
+1622880999377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileGjnOOV"
+1622880999801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileGjnOOV\\search.json.mozlz4", (void 0)))
+1622881001610	Marionette	INFO	Listening on port 64984
+1622881002032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622881017354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622881024596	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1622881038551	Marionette	INFO	Stopped listening on port 64984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622881046228	geckodriver	INFO	Listening on 127.0.0.1:54419
+1622881049293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileDerlfd"
+1622881049956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileDerlfd\\search.json.mozlz4", (void 0)))
+1622881051839	Marionette	INFO	Listening on port 54640
+1622881051971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622881074071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622881081405	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1622881095448	Marionette	INFO	Stopped listening on port 54640
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622882060674	geckodriver	INFO	Listening on 127.0.0.1:61573
+1622882063710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilekSCo6K"
+1622882064136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilekSCo6K\\search.json.mozlz4", (void 0)))
+1622882065901	Marionette	INFO	Listening on port 61581
+1622882066380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622882109402	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622882131122	Marionette	INFO	Stopped listening on port 61581
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622898510004	geckodriver	INFO	Listening on 127.0.0.1:55697
+1622898513081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileeA8yfv"
+1622898514512	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileeA8yfv\\search.json.mozlz4", (void 0)))
+1622898516879	Marionette	INFO	Listening on port 55705
+1622898517279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622898537229	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622898562897	Marionette	INFO	Stopped listening on port 55705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622899691384	geckodriver	INFO	Listening on 127.0.0.1:55948
+1622899694423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilectf8ag"
+1622899694897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilectf8ag\\search.json.mozlz4", (void 0)))
+1622899697037	Marionette	INFO	Listening on port 55956
+1622899697109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622899718794	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622899746336	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: blob:https://mail.protonmail.com/428905a9-16a6-4242-9d79-77836e7f0f3c, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/428905a9-16a6-4242-9d79-77836e7f0f3c, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/428905a9-16a6-4242-9d79-77836e7f0f3c, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://mail.protonmail.com/9.9ff76d3abb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+1622899755880	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622899765190	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Parent 8692, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1622899790935	Marionette	INFO	Stopped listening on port 55956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622899899367	geckodriver	INFO	Listening on 127.0.0.1:60000
+1622899902412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileGulgr6"
+1622899902909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileGulgr6\\search.json.mozlz4", (void 0)))
+1622899905018	Marionette	INFO	Listening on port 60008
+1622899905090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1622899925895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: blob:https://mail.protonmail.com/b5f92fe0-169f-41d4-9757-bb25c92a69d6, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/b5f92fe0-169f-41d4-9757-bb25c92a69d6, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/b5f92fe0-169f-41d4-9757-bb25c92a69d6, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: https://mail.protonmail.com/9.9ff76d3abb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1622900012716	Marionette	INFO	Stopped listening on port 60008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623044634760	geckodriver	INFO	Listening on 127.0.0.1:52304
+1623044637819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileNxnmW9"
+1623044638780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileNxnmW9\\search.json.mozlz4", (void 0)))
+1623044640973	Marionette	INFO	Listening on port 52312
+1623044641040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623044718629	Marionette	INFO	Stopped listening on port 52312
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623046156013	geckodriver	INFO	Listening on 127.0.0.1:56757
+1623046159065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileircboI"
+1623046159490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileircboI\\search.json.mozlz4", (void 0)))
+1623046161432	Marionette	INFO	Listening on port 56765
+1623046161729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623046205969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623046226790	Marionette	INFO	Stopped listening on port 56765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623057075321	geckodriver	INFO	Listening on 127.0.0.1:55100
+1623057078349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilesmGSid"
+1623057078866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilesmGSid\\search.json.mozlz4", (void 0)))
+1623057080857	Marionette	INFO	Listening on port 55108
+1623057080976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623057094595	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623057096507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1623057114548	Marionette	INFO	Stopped listening on port 55108
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623075950202	geckodriver	INFO	Listening on 127.0.0.1:51198
+1623075953278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilecmUtt4"
+1623075953689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilecmUtt4\\search.json.mozlz4", (void 0)))
+1623075955436	Marionette	INFO	Listening on port 57225
+1623075955952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623075959282	Marionette	INFO	Stopped listening on port 57225
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623075976411	geckodriver	INFO	Listening on 127.0.0.1:52904
+1623075979491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilesluKVF"
+1623075979887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilesluKVF\\search.json.mozlz4", (void 0)))
+1623075981918	Marionette	INFO	Listening on port 56634
+1623075982163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623075996672	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623075999218	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1623076016296	Marionette	INFO	Stopped listening on port 56634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623076019211	geckodriver	INFO	Listening on 127.0.0.1:49861
+1623076022292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileaTnOoo"
+1623076022694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileaTnOoo\\search.json.mozlz4", (void 0)))
+1623076024520	Marionette	INFO	Listening on port 60040
+1623076024962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623076062373	Marionette	INFO	Stopped listening on port 60040
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623076065213	geckodriver	INFO	Listening on 127.0.0.1:49952
+1623076068292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilebRck7i"
+1623076068684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilebRck7i\\search.json.mozlz4", (void 0)))
+1623076070581	Marionette	INFO	Listening on port 63000
+1623076070939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623076083906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623076108548	Marionette	INFO	Stopped listening on port 63000
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623076111417	geckodriver	INFO	Listening on 127.0.0.1:62416
+1623076114477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofile961WUj"
+1623076114884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofile961WUj\\search.json.mozlz4", (void 0)))
+1623076116851	Marionette	INFO	Listening on port 51336
+1623076117139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623076129917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623076137077	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1623076151014	Marionette	INFO	Stopped listening on port 51336
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623076153821	geckodriver	INFO	Listening on 127.0.0.1:64665
+1623076156890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofileWzTmWk"
+1623076157283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofileWzTmWk\\search.json.mozlz4", (void 0)))
+1623076159105	Marionette	INFO	Listening on port 57571
+1623076159583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623076174355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623076195335	Marionette	INFO	Stopped listening on port 57571
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623076198316	geckodriver	INFO	Listening on 127.0.0.1:61522
+1623076201375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-notifications" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAKTH~1\\AppData\\Local\\Temp\\rust_mozprofilePwm8f0"
+1623076201769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssakthivel\\AppData\\Local\\Temp\\rust_mozprofilePwm8f0\\search.json.mozlz4", (void 0)))
+1623076203679	Marionette	INFO	Listening on port 54851
+1623076204030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1623076217109	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: blob:https://mail.protonmail.com/405dbf46-e070-474b-b7b0-03eb349f3eb4, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/405dbf46-e070-474b-b7b0-03eb349f3eb4, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/405dbf46-e070-474b-b7b0-03eb349f3eb4, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: https://mail.protonmail.com/9.9ff76d3abb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+1623076300882	Marionette	INFO	Stopped listening on port 54851
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
